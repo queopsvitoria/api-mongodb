@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Queops\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Queops\\.nuget\\packages"
+    ]
+  }
+}
